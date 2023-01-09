@@ -1,6 +1,6 @@
 # What is this ?
 
-A script that generate a `output.txt` file which contains the highest pixel of each Pokemon and the lowest pixel of each Pokémon in order to get the coordinates of the hat of Terastallized Pokémon, from Bulbasaur to Calyrex
+A script that generate a `output.txt` file which contains the highest pixel of each Pokemon and the lowest pixel of each Pokémon in order to get the coordinates of the hat of Terastallized Pokémon, from Bulbasaur to Calyrex. This is just meant to save time, this script doesn't automatize at 100% (see Issues to learn more)
 ![image](https://user-images.githubusercontent.com/78297845/211426519-06a75e65-545f-4651-b1e6-87a753028718.png)
 
 # Examples
